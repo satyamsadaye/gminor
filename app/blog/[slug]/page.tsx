@@ -436,7 +436,7 @@ const blogPosts: BlogPosts = {
       <p>Before applying any processing, proper editing is essential:</p>
 
       <div class="my-8">
-        <img src="/blog-images/mv.jpg" alt="Vocal Editing: The Foundation of a Great Mix" class="w-full rounded-lg" />
+        <img src="/blog-images/ve.jpg" alt="Vocal Editing: The Foundation of a Great Mix" class="w-full rounded-lg" />
         <p class="text-sm text-muted-foreground mt-2 text-center">Vocal Editing: The Foundation of a Great Mix</p>
       </div>
       
@@ -1464,4 +1464,3 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
     </div>
   )
 }
-
